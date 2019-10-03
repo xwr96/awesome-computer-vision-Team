@@ -14,3 +14,6 @@
 
 # 高质量的开发者社区
 [极市开发者社区](http://bbs.cvmart.net/)
+
+# 计算机视觉必读论文
+[The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
