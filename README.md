@@ -9,8 +9,8 @@
 # 团队
 ## 清华大学
 [张钹（科学院院士）](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)\
-[张长水（IEEE Fellow）](https://www.tsinghua.edu.cn/publish/auen/1713/2011/20110704140705068195236/20110704140705068195236_.html)
-[胡事民](https://cg.cs.tsinghua.edu.cn/shimin.htm)\
+[张长水（IEEE Fellow）](https://www.tsinghua.edu.cn/publish/auen/1713/2011/20110704140705068195236/20110704140705068195236_.html)\
+[胡事民](https://cg.cs.tsinghua.edu.cn/shimin.htm)
 ## 北京大学
 [刘家瑛](http://39.96.165.147/people/liujiaying.html)\
 [施柏鑫](http://www.shiboxin.com)
